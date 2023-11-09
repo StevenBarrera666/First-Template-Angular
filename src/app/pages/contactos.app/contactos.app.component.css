@@ -1,0 +1,106 @@
+.form-group {
+    width: 455px;
+    margin-left: 4em;
+    float: left;
+}
+
+.btn-danger {
+    float: right;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+th {
+    text-align: center;
+    font-size: 27px;
+}
+
+table {
+    box-shadow: 8px 5px 5px 0;
+    -moz-box-shadow: 8px 5px 20px 0;
+    -webkit-box-shadow: 8px 10px 20px 0;
+}
+
+tr {
+    border: solid;
+    border-color: #BCA9F5;
+    transition: .4s ease-in-out;
+}
+
+td {
+    transition: .4s ease-in-out;
+    border: none;
+}
+
+span {
+    color: #9A9AD5;
+    transition: .4s ease-in-out;
+}
+
+#enviar {
+    font-size: 20px;
+    width: 200px;
+    height: 50px
+}
+
+#formulario p {
+    padding: 15px;
+    border: solid;
+    box-shadow: 8px 5px 5px 0;
+    -moz-box-shadow: 8px 5px 20px 0;
+    -webkit-box-shadow: 8px 10px 20px 0;
+    border-radius: 14px 14px 14px 14px;
+    -moz-border-radius: 14px 14px 14px 14px;
+    -webkit-border-radius: 14px 14px 14px 14px;
+}
+
+h1 {
+    box-shadow: 8px 5px 5px 0;
+    -moz-box-shadow: 8px 5px 20px 0;
+    -webkit-box-shadow: 8px 10px 20px 0;
+    margin-bottom: 18px;
+    padding: 5px;
+    border: solid;
+    border-radius: 14px 14px 14px 14px;
+    -moz-border-radius: 14px 14px 14px 14px;
+    -webkit-border-radius: 14px 14px 14px 14px;
+}
+
+.input-lg,
+select {
+    border: solid;
+}
+
+th,
+h1,
+#formulario p {
+    background-color: #BCA9F5;
+}
+
+.nombreAlert {
+    color: #FE9A2E;
+    font-weight: bold;
+}
+
+select {
+    width: 125px;
+    text-align: center;
+    margin-top: 15px;
+    padding: 3px;
+    border-radius: 7px 7px 7px 7px;
+    -moz-border-radius: 7px 7px 7px 7px;
+    -webkit-border-radius: 7px 7px 7px 7px;
+}
+
+#meses {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#elimiTodos {
+    margin-top: 3px;
+    margin-right: 2px;
+}
